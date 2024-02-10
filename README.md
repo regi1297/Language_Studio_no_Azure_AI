@@ -28,13 +28,12 @@ Através de APIs simples, é possível enviar texto para análise e receber resu
 2. Crie um recurso de Language Studio no portal Azure.
 
 ### Exemplos de Uso
+# Analyze sentiment and opinions
+![image](https://github.com/regi1297/Language_Studio_no_Azure_AI/assets/104945923/0aaef574-1eb2-4c2a-b7b6-020aa2084d49)
 
-Acesse os exemplos de uso na pasta `exemplos/`. Eles fornecem códigos de amostra em várias linguagens de programação para 
-realizar análise de sentimentos com o Azure Language Studio.
+# Examine the results
+![image](https://github.com/regi1297/Language_Studio_no_Azure_AI/assets/104945923/fd71d0c2-fcfe-4e86-b731-de2290842032)
 
 ## Recursos Adicionais
 
 - [Documentação Oficial do Azure Language Studio](https://docs.microsoft.com/en-us/azure/cognitive-services/language-service/)
-
-
-
